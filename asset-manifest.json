@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/github.io/accordion-faq/static/css/main.75d69ae9.chunk.css",
+    "main.js": "/github.io/accordion-faq/static/js/main.80fae1e3.chunk.js",
+    "main.js.map": "/github.io/accordion-faq/static/js/main.80fae1e3.chunk.js.map",
+    "runtime-main.js": "/github.io/accordion-faq/static/js/runtime-main.6f3e871f.js",
+    "runtime-main.js.map": "/github.io/accordion-faq/static/js/runtime-main.6f3e871f.js.map",
+    "static/js/2.f745c462.chunk.js": "/github.io/accordion-faq/static/js/2.f745c462.chunk.js",
+    "static/js/2.f745c462.chunk.js.map": "/github.io/accordion-faq/static/js/2.f745c462.chunk.js.map",
+    "index.html": "/github.io/accordion-faq/index.html",
+    "precache-manifest.6e093f4e61d4775c9339efa2081609ba.js": "/github.io/accordion-faq/precache-manifest.6e093f4e61d4775c9339efa2081609ba.js",
+    "service-worker.js": "/github.io/accordion-faq/service-worker.js",
+    "static/css/main.75d69ae9.chunk.css.map": "/github.io/accordion-faq/static/css/main.75d69ae9.chunk.css.map",
+    "static/js/2.f745c462.chunk.js.LICENSE.txt": "/github.io/accordion-faq/static/js/2.f745c462.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6f3e871f.js",
+    "static/js/2.f745c462.chunk.js",
+    "static/css/main.75d69ae9.chunk.css",
+    "static/js/main.80fae1e3.chunk.js"
+  ]
+}
